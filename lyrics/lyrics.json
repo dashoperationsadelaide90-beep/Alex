@@ -1,0 +1,26 @@
+{
+ "cards": {
+  "v1": ["කුණාටු මධ්‍යයේ", "In the midst of the storm"],
+  "v2": ["නොසැලෙන්නට දිරි දුන්නා", "You gave me courage to stand unshaken"],
+  "v3": ["ඔබ මා ශක්තියයි", "You are my strength"],
+  "v4": ["මා ඇදහිල්ලත් ඔබයි", "You are my faith"],
+  "b1": ["මා බිහි වුණාට පෙරත්", "Even before I was born"],
+  "b2": ["ඔබ මා ගැන දැන සිටියේ", "You knew me"],
+  "b3": ["අදත් මාගේ දිවියේ", "And still today, in my life"],
+  "b4": ["පර්වතය ද ඔබ වන්නේ", "You are my rock"],
+  "b5": ["සැමදා ඔබ මා තුළයි", "You are in me forever"],
+  "b6": ["සමිඳේ", "O Lord"],
+  "c1": ["මගේ ජීවිතයේ කුණාටුවන්", "Through the storms of my life"],
+  "c2": ["ඉදිරියේ ඔබ මා පර්වතයයි", "You are my rock"],
+  "c3": ["නැගී එන සෑම රළ පාරක්", "Before every rising wave"],
+  "c4": ["ඉදිරියේ ඔබ මා පර්වතයයි", "You are my rock"]
+ },
+ "windows": [
+  [0.0, 11.1, ["v1","v2","v3"]],
+  [11.1, 25.0, ["v4","v1","v2","v3"]],
+  [25.0, 46.1, ["v4","b1","b2","b3","b4","b5"]],
+  [46.1, 75.8, ["b6","c1","c2","c3","c4"]],
+  [75.8, 103.1, ["c1","c2","c3","c4"]],
+  [103.1, 129.47, ["c1","c2","c3","c4"]]
+ ]
+}
